@@ -1,4 +1,6 @@
-<style>
+body{
+    background-color: yellowgreen;
+}
 h1, h2, h3, h4 {
     color:black;
     font-size: medium; 
@@ -14,4 +16,3 @@ h1, h2, h3, h4 {
 #theOne{
     color: blue;
 }
-</style>
